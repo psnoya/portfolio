@@ -1,15 +1,15 @@
 import React from "react";
 import { Container } from "semantic-ui-react";
 
-const Hello = () => {
-    return ( 
+const Projects = () => { 
+    return (
         <Container>
-            <h1 id="hello">Hello World</h1>
+            <h1 id="projects-header">My Projects</h1>
             <p>
-                Hej Hi Hello
+                something something lalala
             </p>
         </Container>
     );
 };
 
-export default Hello;
+export default Projects;
